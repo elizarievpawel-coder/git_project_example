@@ -6,5 +6,8 @@ print("Сезон дождей нет так уж плох, когда впер�
 
 def main():
     print('My first git program')
+    print('And I change code every day')
 if __name__ == '__main__':
     main()
+
+# 4c01abc3adc883e416f17d70c1bd1c940ca27075
